@@ -19,7 +19,7 @@ To save a single notification to review later, to the right of the notification,
 
 Saved notifications are kept indefinitely and can be viewed by clicking **Saved** in the sidebar or with the `is:saved` query. If your saved notification is older than 5 months and becomes unsaved, the notification will disappear from your inbox within a day.
 
-  ![Save triaging option](/assets/images/help/notifications-v2/save-triaging-option.png)
+  ![Save triaging option](/assets/images/help/notifications-v2/save-jtriaging-option.png)
 
 ## Investigating a notification
 
